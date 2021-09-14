@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexandre-Canto , 27 , Team Leader of IML1 Team and Advanced Operations
+- 👋 Hi, I’m @Alexandre-Canto , 27 , Team Leader of IML1 Team and Advanced Operations at Kyndryl Portugal 
 - 👀 I’m interested in improving the quality of Operations Teams service and performance
 - 🌱 I’m currently learning Ansible,Terraform and Docker
 - 💞️ I’m looking to collaborate on everything related to operations automation
